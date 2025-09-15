@@ -4,6 +4,7 @@
 ![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/last-update/darealaal/https%3A%2F%2Fgithub.com%2FDaRealAal%2FGithub-user-activity-Project%2F/10)
 ![GitHub Repo stars](https://img.shields.io/github/stars/darealaal/https%3A%2F%2Fgithub.com%2FDaRealAal%2FGithub-user-activity-Project%2F)
 ![GitHub forks](https://img.shields.io/github/forks/darealaal/https%3A%2F%2Fgithub.com%2FDaRealAal%2FGithub-user-activity-Project%2F)
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/darealaal/Github-user-activity-Project)
 
 
 This is for https://roadmap.sh/projects/github-user-activity Project
