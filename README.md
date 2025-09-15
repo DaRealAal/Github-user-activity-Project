@@ -1,7 +1,7 @@
 # Github-user-activity---Project
 
 ![GitLab Issues](https://img.shields.io/gitlab/issues/all/Github-user-activity-Project)
-![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/last-update/darealaal/Github-user-activity-Project)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/darealaal/Github-user-activity-Project)
 ![GitHub Repo stars](https://img.shields.io/github/stars/darealaal/Github-user-activity-Project)
 ![GitHub forks](https://img.shields.io/github/forks/darealaal/Github-user-activity-Project)
 ![GitHub manifest version](https://img.shields.io/github/manifest-json/v/darealaal/Github-user-activity-Project)
